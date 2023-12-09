@@ -1,2 +1,2 @@
-# JsonToXMLparser
-GB. Final task C#
+Урок 9. Сериализация
+Напишите приложение, конвертирующее произвольный JSON в XML. Используйте JsonDocument.
